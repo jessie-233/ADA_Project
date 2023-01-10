@@ -1,4 +1,5 @@
-ADA Project 2021 @ EPFL
+This repository is a copy of ADA Project 2021 @ EPFL
+
 ------------------------
 # ADA Project (Milestone 3)
 ## Title: How political efforts affect annual greenhouse gas (GHGs) emissions

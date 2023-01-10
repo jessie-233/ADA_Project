@@ -1,4 +1,6 @@
-﻿# ADA Project (Milestone 3)
+ADA Project 2021 @ EPFL
+------------------------
+# ADA Project (Milestone 3)
 ## Title: How political efforts affect annual greenhouse gas (GHGs) emissions
 [data story here](https://dataminerada.github.io/)
 ## Abstract
